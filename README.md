@@ -1,11 +1,11 @@
 # ML Engineering Challenge
-Design and implement a system architecture for VIN decoding using machine learning. The system should be able to handle high volumes of VIN decoding requests and return decoded information such as make, model, year, body and transmission types.
+Design and implement a machine learning-based system architecture for VIN decoding. The system should be able to handle high volumes of VIN decoding requests and return decoded information such as make, model, year, body, and transmission types.
 
 ## Requirements
 Specifically, the solution should include:
-- A project to train the model with instuction on how to run it from command line.
-- A project containing inference API which uses trained model, API can be local or cloud based, but it should be easy for us to set up based on provided instructions.
-- A diagram on how might actual production system look for such a service. We will discuss it during the interview.
+- A project to train the model with instructions on how to run it from the command line.
+- A project containing an inference API that uses a trained model. The API can be local or cloud-based, but it should be easy for us to set up based on the provided instructions.
+- A diagram of how the actual production system might look for such a service. We will discuss it during the interview.
 
 Optionally, the solution may touch on (can be discussed instead of implemented):
 - A database system to store decoded VIN information and enable fast queries
@@ -25,6 +25,5 @@ Data can be found [here](data/ml-engineer-challenge-redacted-data.csv)
     - `body`: Body type of the vehicle (if available)
 
 ## Submitting work
-- Code should be shared with [@jarutis](https://github.com/jarutis) as collaborator on private repository when it is ready for a review
+- Code should be shared with [@jarutis](https://github.com/jarutis) as a collaborator on a private repository when it is ready for a review
 - Any explanations should be written either in README.md, within the code as comments or a jupyter notebook. 
-
