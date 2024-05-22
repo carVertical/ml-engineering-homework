@@ -1,5 +1,5 @@
 # ML Engineering Challenge
-Design and implement a machine learning-based system architecture for VIN decoding. The system should be able to handle high volumes of VIN decoding requests and return decoded information such as make, model, year, body, and transmission types.
+Design and implement a machine learning-based system architecture for VIN decoding. The system should be able to handle high volumes of VIN decoding requests and return decoded information such as make, model, year, body.
 
 ## Requirements
 Specifically, the solution should include:
