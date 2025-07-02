@@ -25,5 +25,5 @@ Data can be found [here](data/ml-engineer-challenge-redacted-data.csv)
     - `body`: Body type of the vehicle (if available)
 
 ## Submitting work
-- Code should be shared with [@jarutis](https://github.com/jarutis) as a collaborator on a private repository when it is ready for a review
+- Code should be shared with [@smagu](https://github.com/smagu) as a collaborator on a private repository when it is ready for a review
 - Any explanations should be written either in README.md, within the code as comments or a jupyter notebook. 
